@@ -3,14 +3,14 @@
         {
             "moduleName": "ch.qos.logback:logback-classic",
             "moduleUrl": "http://www.qos.ch",
-            "moduleVersion": "1.5.6",
+            "moduleVersion": "1.5.7",
             "moduleLicense": "GNU Lesser General Public License",
             "moduleLicenseUrl": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"
         },
         {
             "moduleName": "ch.qos.logback:logback-core",
             "moduleUrl": "http://www.qos.ch",
-            "moduleVersion": "1.5.6",
+            "moduleVersion": "1.5.7",
             "moduleLicense": "GNU Lesser General Public License",
             "moduleLicenseUrl": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"
         },
@@ -286,7 +286,7 @@
         {
             "moduleName": "io.micrometer:micrometer-core",
             "moduleUrl": "https://github.com/micrometer-metrics/micrometer",
-            "moduleVersion": "1.13.0",
+            "moduleVersion": "1.13.3",
             "moduleLicense": "The Apache Software License, Version 2.0",
             "moduleLicenseUrl": "http://www.apache.org/licenses/LICENSE-2.0.txt"
         },
@@ -487,6 +487,12 @@
             "moduleUrl": "https://pdfbox.apache.org",
             "moduleVersion": "3.0.3",
             "moduleLicense": "Apache-2.0",
+            "moduleLicenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+        },
+        {
+            "moduleName": "org.apache.pdfbox:jbig2-imageio",
+            "moduleVersion": "3.0.4",
+            "moduleLicense": "Apache License, Version 2.0",
             "moduleLicenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt"
         },
         {
@@ -790,7 +796,7 @@
         {
             "moduleName": "org.hdrhistogram:HdrHistogram",
             "moduleUrl": "http://hdrhistogram.github.io/HdrHistogram/",
-            "moduleVersion": "2.2.1",
+            "moduleVersion": "2.2.2",
             "moduleLicense": "Public Domain, per Creative Commons CC0",
             "moduleLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/"
         },
@@ -1137,7 +1143,7 @@
         {
             "moduleName": "org.springframework:spring-webmvc",
             "moduleUrl": "https://github.com/spring-projects/spring-framework",
-            "moduleVersion": "6.1.12",
+            "moduleVersion": "6.1.9",
             "moduleLicense": "Apache License, Version 2.0",
             "moduleLicenseUrl": "https://www.apache.org/licenses/LICENSE-2.0"
         },
